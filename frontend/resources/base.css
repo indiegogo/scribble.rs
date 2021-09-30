@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    font-family: 'Montserrat';
+    font-family: "benton-sans", "Helvetica" ,"Sans-serif";
     background-color: antiquewhite;
     margin: 0;
 }
@@ -51,6 +51,27 @@ h1, h2 {
 
 h1 {
     font-size: 6rem;
+}
+
+.header-custom {
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 0.625rem 1rem;
+    margin-bottom: 1rem;
+}
+
+.header-custom > a {
+    display: flex;
+}
+
+.header-custom > span {
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-left: 2rem;
 }
 
 h2 {
