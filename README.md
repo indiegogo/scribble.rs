@@ -101,6 +101,13 @@ You will find an example configuration on the [related Wiki page](https://github
 
 Other reverse proxies may require similar configuration. If you are using a well known reverse proxy, you are free to contribute a configuration to the wiki.
 
+## GCP
+
+* Build image with `docker build . -t <image name>:<tag>`
+* Push image to GCR: `docker push <image-name>:<tag>`
+* Start a GCP Cloud Run service exposing port 8080
+* Hosted at https://scribble.games.indiegogo.net
+
 ## Contributing
 
 There are many ways you can contribute:
