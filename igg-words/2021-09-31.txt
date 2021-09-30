@@ -25,3 +25,8 @@ double click
 etls
 board of directors
 stripe
+InDemand
+smart potato
+babymaker
+HIC
+prototype stage
