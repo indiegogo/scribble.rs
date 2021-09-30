@@ -173,6 +173,7 @@
 
 #message-input:focus {
     outline: none;
+    border: 1px solid black;
     background-color: rgb(250, 211, 252);
 }
 

@@ -4,12 +4,12 @@ html, body {
 
 body {
     font-family: "benton-sans", "Helvetica" ,"Sans-serif";
-    background-color: antiquewhite;
+    background-color: hsl(332, 87%, 88%);
     margin: 0;
 }
 
 body, body::backdrop, body:fullscreen {
-    background-color: antiquewhite;
+    background-color: hsl(332, 87%, 88%);
 }
 
 .content-wrapper {
