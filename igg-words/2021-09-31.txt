@@ -1,58 +1,58 @@
-campaign
-ebike
-drop
-preorder
-campaign owner
-blockbuster
-looker
-ebitda
-newsletter
-homepage
-disbursement
-engineering
-product
-finance
-legal
-sales
-marketing
-digital services
-user ops
-campaign specialist
-perk
-secret perk
-timed perk
-category
-double click
-etls
-board of directors
-stripe
-InDemand
-smart potato
-babymaker
-HIC
-prototype stage
-covid
-pandemic
-remote work
-squid game
-tiger king
-booster shot
-gogobucks
-delta variant
-sweatpants
-fearless
-authentic
-collaborative
-empowered
-ladder up
-operating model
-community
-tech and innovation
-experiment
-fashion
-art
-video games
-photography
-transportation
-education
-home
+campaign,
+ebike,
+drop,
+preorder,
+campaign owner,
+blockbuster,
+looker,
+ebitda,
+newsletter,
+homepage,
+disbursement,
+engineering,
+product,
+finance,
+legal,
+sales,
+marketing,
+digital services,
+user ops,
+campaign specialist,
+perk,
+secret perk,
+timed perk,
+category,
+double click,
+etls,
+board of directors,
+stripe,
+InDemand,
+smart potato,
+babymaker,
+HIC,
+prototype stage,
+covid,
+pandemic,
+remote work,
+squid game,
+tiger king,
+booster shot,
+gogobucks,
+delta variant,
+sweatpants,
+fearless,
+authentic,
+collaborative,
+empowered,
+ladder up,
+operating model,
+community,
+tech and innovation,
+experiment,
+fashion,
+art,
+video games,
+photography,
+transportation,
+education,
+home,
