@@ -1,6 +1,7 @@
 campaign
 ebike
 drop
+preorder
 campaign owner
 blockbuster
 looker
@@ -30,3 +31,20 @@ smart potato
 babymaker
 HIC
 prototype stage
+covid
+pandemic
+remote work
+squid game
+tiger king
+booster shot
+gogobucks
+delta variant
+sweatpants
+fearless
+authentic
+collaborative
+empowered
+ladder up
+operating model
+community
+tech and innovation
